@@ -1,4 +1,4 @@
-# 🫀 Cirrhosis Stage & Status Prediction
+# Cirrhosis Stage & Status Prediction
 
 > Predicting liver disease severity and patient survival outcomes using clinical biomarkers from the Mayo Clinic PBC Trial — upgraded from an in-plant training project to a production-grade ML pipeline.
 
