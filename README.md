@@ -162,7 +162,7 @@ Or open directly in Google Colab:
 
 ## 👤 Author
 
-**Sridhar Shyam**
+**SHYAM S**
 B.Tech AI & ML · Saveetha Engineering College · Chennai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shyam--2005--ds--ml-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/shyam-2005-ds-ml)
